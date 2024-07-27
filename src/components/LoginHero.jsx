@@ -15,7 +15,7 @@ function Hero({handleLogIn}) {
             <br />
             <FlexCenter>
             <MarketingButton alt="pizza" primary onClick={handleLogIn}>
-              Login with GitHub
+              Login with GitHub if you want
             </MarketingButton>
           </FlexCenter>
           </FlexColumnCenter>
